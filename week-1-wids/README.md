@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Week 1 - Into the RLverse
 
 Welcome to Week 1, in this week we will learn about PyTorch implementation of CNNs (Convolutional Neural Nets), have a brief introduction to reinforcement learning problem and build some environments which we will solve in coming weeks.
@@ -16,9 +14,3 @@ Welcome to Week 1, in this week we will learn about PyTorch implementation of CN
 - Please read [Grokking RL](../GrokkingRL.pdf) from Pg 31 to Pg 45, this will to introduce you to the reinforcement learning problem and some of it's basic aspects, the next part of your assignment requires knowledge about Multi Armed Bandits.
 - The files [multi_armed_bandit.ipynb](./multi_armed_bandits.ipynb) and [TicTacToe.ipynb](./TicTacToe.ipynb) contain the next part of your assignement, complete the code inside the respective notebooks notebook itself.
 - If you are done with the assignments then feel free to read Pg 46 to Pg 62 of [Grokking RL](../GrokkingRL.pdf).
-=======
-# wids_2023
->>>>>>> origin/main
-=======
-# wids_2023
->>>>>>> origin/main
