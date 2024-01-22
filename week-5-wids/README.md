@@ -73,7 +73,4 @@ while not done:
 	update_state(state,observation)
 ```
 
-## Reference
-
-[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 
