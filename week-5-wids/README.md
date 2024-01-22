@@ -1,32 +1,14 @@
 # RL Agent for Atari Game Pong
 
 ## Demo
-This is a sample frame of the game.
+Demo game
 
 | ![demo.gif](demo.gif) | 
 |:--:| 
 | *The right player is the RL agent* |
 
-## Dependencies
 
-```
-numpy (1.16.4)
-tensorflow (1.14.0)
-keras (2.2.4)
-gym (0.10.11)
-```
-
-## Reinforcement Learning (RL)
-
-The environment I used in this project is the Pong game in [OpenAI Gym](https://gym.openai.com/envs/#atari).
-
-In this environment, the state is an RGB image (210x160) and each action "repeatedly performed for a duration of k frames, where k is uniformly sampled from {2,3,4}" (there are 6 actions).
-
-Who ever first reaches 21 will win the game.
-
-To create an agent that will make a decision based on only the pixels of the given image(the state).
-I used the Deep Q-Network architecture which was proposed by the DeepMind paper.
-
+## Architecture
 The architecture of the network is as follow:
 
 ```
